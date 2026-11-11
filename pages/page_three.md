@@ -1,3 +1,5 @@
+# Page three
+
 ## A useful open source software for European Studies
 
 The text on this page is written in the file **pages/page_two.md**. The first line, starting with a single #, becomes the heading in the banner.
