@@ -8,7 +8,7 @@ One of those advantages is an increased level of **transparency**, which is some
 
 Another advantage of open source software is that it allows **attraction and retention** of new and old talent (Linåker & Regnell 2020, 3814). By allowing people to work on the source code, the supplier gains the ability to study who does well and potentially recruit them while users can make their contributions visible. 
 
-While there are many other benefits to open source software, the last one mentioned on this page while be from an *engineering* perspective. Choosing open source software allows the supplier to **rely on the community** for maintenance and ensuring the software’s quality as well as doing the same for gaining new innovations. 
+While there are many other benefits to open source software, the last one mentioned on this page while be from an *engineering* perspective. Choosing open source software allows the supplier to **rely on the community** for maintenance and ensuring the software’s quality as well as doing the same for gaining new innovations (Linåker & Regnell 2020, 3817). 
 
 Being able to **work together closely** with the community invested in the software a supplier is providing overall poses the greatest advantage to open source software since it creates an **environment of cooperation** on a trust-basis as it allows bugs to be fixed and the software to improve.
 
