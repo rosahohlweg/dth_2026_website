@@ -128,7 +128,7 @@ h1 {
   background-color: var(--white);
   outline: none;
   border: none;
-  color: var(--blue);
+  color: var(--purple);
   font-size: 48px;
   margin: 0 40px;
   transition: ease-in-out, 0.3s;
@@ -136,7 +136,7 @@ h1 {
 
 .carouselBtn:hover {
   cursor: pointer;
-  color: var(--green);
+  color: var(--yellow);
   transform: scale(1.3);
 }
 
