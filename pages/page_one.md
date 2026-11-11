@@ -1,6 +1,6 @@
 # Page one
 
-## This is the headline of your first page
+## The advantages of open source software
 
 This is the first paragraph. The first paragraph after a headline is displayed in a lighter font weight.
 
