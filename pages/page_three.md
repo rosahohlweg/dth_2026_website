@@ -1,6 +1,6 @@
 # Page three
 
-## A useful open source software for European Studies
+## Zotero as a useful open source software for European Studies
 
 One incredibly useful tool for writing papers in the European Studies MA programme is *Zotero*. Zotero is an open source software which helps with collecting, organising, citing and sharing your sources. Given that it is a humanities study, sources and references quickly pile up and can become unmanageable easily. Zotero was originally created by the *Center for History and New Media* at *George Mason University* but since 2021, it is being developed by the *Corporation for Digital Scholarship* [(Wikipedia)](https://en.wikipedia.org/wiki/Zotero).
 
